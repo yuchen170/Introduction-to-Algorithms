@@ -1,3 +1,3 @@
 # Introduction-to-Algorithms
 
-Implemented algorithms in the textbook
+Implemented algorithms from "Introduction to Algorithms", Fourth Edition by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein
